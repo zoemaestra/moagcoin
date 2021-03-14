@@ -10,7 +10,6 @@ PyInstaller is recommended for compilation
 
 `pyinstaller -i <icon>.ico --onefile miner.py`
 
-www.moagco.in and www.moagcoin.info for more information
 ## Important notes
 https://github.com/zoemaestra/moagcoin/wiki/Issues-and-important-notes
 ## Where's the ready made and compiled .exe?
