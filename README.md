@@ -12,8 +12,8 @@ PyInstaller is recommended for compilation
 
 www.moagco.in and www.moagcoin.info for more information
 ## Important notes
-https://github.com/benjimaestro/moagcoin/wiki/Issues-and-important-notes
+https://github.com/zoemaestra/moagcoin/wiki/Issues-and-important-notes
 ## Where's the ready made and compiled .exe?
-https://github.com/benjimaestro/moagcoin/releases
+https://github.com/zoemaestra/moagcoin/releases
 ## I want Linux support!
-https://github.com/benjimaestro/moagcoin/wiki/Linux-support
+https://github.com/zoemaestra/moagcoin/wiki/Linux-support
